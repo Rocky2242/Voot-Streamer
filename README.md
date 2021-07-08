@@ -1,6 +1,6 @@
 <h1 align="center">📺 Voot Streamer 😉</h1>
 
-<p align="center"> ⚒ It can Stream The ZEE5 Movies and Series <br> In Online HLS Player !!</p>
+<p align="center"> ⚒ It can Stream The Voot Movies and Series <br> In Online HLS Player !!</p>
 <h2> Features :</h2>
 
 ‣ Online HLS Player With all Features <br>
