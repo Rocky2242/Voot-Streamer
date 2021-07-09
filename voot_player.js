@@ -51,7 +51,7 @@ Stream
 <br><br><br><br><br><br><br><br><br>
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Avishkar Patil</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="/">© 2021 Avishkar Patil</a></span>
             </div>
         </footer>
 </body>
