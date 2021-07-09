@@ -53,4 +53,4 @@ https://stremio.tk/?q=https://www.voot.com/shows/bigg-boss/14/978245/papa-ki-par
 
 <h2 align="center"> Where To Host : </h2>
 
-<h5 align="center"> Copy The worker.js code and Host on CloudFlare Workers or Use https://stremio.tk
+<h5 align="center"> Copy The worker.js code and Host on CloudFlare Workers or Use https://voot.connectvip.workers.dev
